@@ -1,4 +1,13 @@
 [
-  {"name":"Java","img":"java.png","color":"#f3a744"},
-  {"name":"OCaml","img":"ocaml.png","color":"#2424bf"}
+  {"name":"Java","key":"java","color":"#f3a744","complete":true},
+  {"name":"OCaml","key":"ocaml","color":"#2424bf"},
+  {"name":"Rust","key":"rust","color":"#f18d3b"},
+  {"name":"Kotlin","key":"kotlin","color":"#7056fc"},
+  {"name":"Node.js","key":"nodejs","color":"#539e43"},
+  {"name":"Golang","key":"golang","color":"#00acd7"},
+  {"name":"Haskell","key":"haskell","color":"#9e358f"},
+  {"name":"Lua","key":"lua","color":"#000080"},
+  {"name":"Elixir","key":"elixir","color":"#ae91dc"},
+  {"name":"Ruby","key":"ruby","color":"#e8504a"},
+  {"name":"Python","key":"python","color":"#47b9d6"}
 ]

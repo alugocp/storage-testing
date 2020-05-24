@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "defined_event?(event)", "desc": "Check if an event has been defined @param event [String] An event to check @return [Boolean] A boolean indicating if the event has been defined"}]}

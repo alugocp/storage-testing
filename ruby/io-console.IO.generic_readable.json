@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "getch(min: nil, time: nil, intr: nil) \u2192 charclick to toggle source", "desc": "See IO#getch."}, {"type": "public instance method", "name": "getpass(prompt=nil)       \u2192 stringclick to toggle source", "desc": "See IO#getpass."}]}

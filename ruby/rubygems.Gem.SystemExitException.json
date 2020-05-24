@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "exit_code", "desc": " The exit code for the process "}, {"type": "public class method", "name": "new(exit_code)", "desc": "Creates a new SystemExitException with the given exit_code"}]}

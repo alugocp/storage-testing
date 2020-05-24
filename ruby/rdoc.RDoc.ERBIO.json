@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(str, safe_level = nil, trim_mode = nil, eoutvar = 'io')", "desc": "Defaults eoutvar to 'io', otherwise is identical to ERB's initialize"}, {"type": "public instance method", "name": "set_eoutvar(compiler, io_variable)", "desc": "Instructs compiler how to write to io_variable"}]}

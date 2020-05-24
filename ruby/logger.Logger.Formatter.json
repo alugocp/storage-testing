@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "Format", "desc": ""}, {"type": "attribute", "name": "datetime_format", "desc": " "}, {"type": "public class method", "name": "new()", "desc": ""}, {"type": "public instance method", "name": "call(severity, time, progname, msg)", "desc": ""}]}

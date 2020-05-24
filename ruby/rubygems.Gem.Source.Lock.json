@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "wrapped", "desc": " The wrapped Gem::Source "}, {"type": "public class method", "name": "new(source)", "desc": "Creates a new Lock source that wraps source and moves it earlier in the sort list."}, {"type": "public instance method", "name": "fetch_spec(name_tuple)", "desc": "Delegates to the wrapped source's #fetch_spec method."}]}

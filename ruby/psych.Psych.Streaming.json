@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "start(encoding = Nodes::Stream::UTF8)", "desc": "Start streaming using encoding"}]}

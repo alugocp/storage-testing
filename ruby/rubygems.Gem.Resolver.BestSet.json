@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(sources = Gem.sources)", "desc": "Creates a BestSet for the given sources or Gem.sources if none are specified.  sources must be a Gem::SourceList."}]}

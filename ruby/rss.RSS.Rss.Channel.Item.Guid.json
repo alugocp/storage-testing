@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(*args)", "desc": ""}, {"type": "public instance method", "name": "PermaLink?()", "desc": ""}, {"type": "public instance method", "name": "_PermaLink?()", "desc": ""}, {"type": "alias", "name": "_PermaLink?()", "desc": "             Alias for: PermaLink? "}]}

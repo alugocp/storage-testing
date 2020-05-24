@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "name", "desc": " The name of this DomainName. "}, {"type": "public class method", "name": "new(name)", "desc": "Creates a new DomainName from name."}]}

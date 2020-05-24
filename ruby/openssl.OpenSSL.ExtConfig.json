@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "HAVE_TLSEXT_HOST_NAME", "desc": ""}, {"type": "constant", "name": "OPENSSL_NO_SOCK", "desc": ""}]}

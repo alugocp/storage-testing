@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "do_sort", "desc": " "}, {"type": "attribute", "name": "max_size", "desc": " "}, {"type": "public class method", "name": "new(maker)", "desc": ""}, {"type": "public instance method", "name": "normalize()", "desc": ""}]}

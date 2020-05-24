@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "data", "desc": " Data for this generic resource. "}, {"type": "public class method", "name": "new(data)", "desc": "Creates a new generic resource."}]}

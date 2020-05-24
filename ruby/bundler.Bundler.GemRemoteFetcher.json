@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "headers", "desc": " "}, {"type": "public instance method", "name": "fetch_http(uri, last_modified = nil, head = false, depth = 0)", "desc": "Extracted from RubyGems 2.4."}]}

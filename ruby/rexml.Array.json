@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "dclone()", "desc": "provides a unified clone operation, for REXML::XPathParser to use across multiple Object+ types"}]}

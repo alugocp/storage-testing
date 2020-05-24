@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(ctype, args, abi = Fiddle::Function::DEFAULT, &block)", "desc": "Construct a new BlockCaller object."}, {"type": "public instance method", "name": "call(*args)", "desc": "Calls the constructed BlockCaller, with args"}]}

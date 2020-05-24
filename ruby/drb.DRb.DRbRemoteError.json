@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "reason", "desc": " the class of the error, as a string. "}, {"type": "public class method", "name": "new(error)", "desc": "Creates a new remote error that wraps the Exception error"}]}

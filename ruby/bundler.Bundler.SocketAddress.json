@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "host", "desc": " "}, {"type": "attribute", "name": "port", "desc": " "}, {"type": "attribute", "name": "type", "desc": " "}, {"type": "public class method", "name": "new(type, host, port)", "desc": ""}, {"type": "public instance method", "name": "to_socket_address()", "desc": ""}]}

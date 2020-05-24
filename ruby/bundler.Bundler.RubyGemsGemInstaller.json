@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "at(*args)", "desc": ""}, {"type": "public instance method", "name": "build_extensions()", "desc": ""}, {"type": "public instance method", "name": "check_executable_overwrite(filename)", "desc": ""}, {"type": "public instance method", "name": "pre_install_checks()", "desc": ""}]}

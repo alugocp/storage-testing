@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "open(name, *rest, &block)", "desc": "Allows the opening of various resources including URIs."}]}

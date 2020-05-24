@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "VERSION", "desc": ""}, {"type": "public class method", "name": "timeout(sec, klass = nil, message = nil)", "desc": "Perform an operation in a block, raising an error if it takes longer than sec seconds to complete."}]}

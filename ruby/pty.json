@@ -1,0 +1,1 @@
+{"entries": [{"type": "class", "name": "IO", "desc": "", "key": "pty.IO"}, {"type": "class", "name": "PTY::ChildExited", "desc": "", "key": "pty.PTY.ChildExited"}, {"type": "module", "name": "PTY", "desc": "", "key": "pty.PTY"}]}

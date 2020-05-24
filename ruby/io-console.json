@@ -1,0 +1,1 @@
+{"entries": [{"type": "class", "name": "IO", "desc": "", "key": "io-console.IO"}, {"type": "class", "name": "IO::ConsoleMode", "desc": "", "key": "io-console.IO.ConsoleMode"}, {"type": "module", "name": "IO::generic_readable", "desc": "", "key": "io-console.IO.generic_readable"}]}

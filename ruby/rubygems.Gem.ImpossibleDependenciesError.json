@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "conflicts", "desc": " "}, {"type": "attribute", "name": "request", "desc": " "}, {"type": "public class method", "name": "new(request, conflicts)", "desc": ""}, {"type": "public instance method", "name": "dependency()", "desc": ""}]}

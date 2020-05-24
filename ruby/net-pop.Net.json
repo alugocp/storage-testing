@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "APOPSession", "desc": "This class is equivalent to POP3, except that\nit uses APOP authentication."}]}

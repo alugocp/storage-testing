@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "home", "desc": " The default system path for managing Gems. "}, {"type": "attribute", "name": "path", "desc": " Array of paths to search for Gems. "}, {"type": "public class method", "name": "new(env)", "desc": "Constructor. Takes a single argument which is to be treated like a hashtable, or defaults to ENV, the system environment."}]}

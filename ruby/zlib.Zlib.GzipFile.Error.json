@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "input", "desc": " input gzipped string "}, {"type": "public instance method", "name": "inspect()", "desc": "Constructs a String of the GzipFile Error"}]}

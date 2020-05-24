@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "yaml_tag(url)", "desc": ""}, {"type": "public instance method", "name": "to_yaml(options = {})click to toggle source", "desc": "Convert an object to YAML.  See Psych.dump for more information on the available options."}]}

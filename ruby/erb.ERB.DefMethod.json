@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "def_erb_method(methodname, erb_or_fname)", "desc": "define methodname as instance method of current module, using ERB object or eRuby file"}]}

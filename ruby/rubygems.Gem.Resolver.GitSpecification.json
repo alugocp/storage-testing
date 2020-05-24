@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "install(options = {})", "desc": "Installing a git gem only involves building the extensions and generating the executables."}]}

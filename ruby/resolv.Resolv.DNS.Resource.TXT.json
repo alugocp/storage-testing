@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "strings", "desc": " Returns an Array of Strings for this TXT record. "}, {"type": "public class method", "name": "new(first_string, *rest_strings)", "desc": ""}, {"type": "public instance method", "name": "data()", "desc": "Returns the concatenated string from strings."}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "exit_status(error)", "desc": ""}, {"type": "public instance method", "name": "issues_url(exception)", "desc": ""}, {"type": "public instance method", "name": "log_error(error)", "desc": ""}, {"type": "public instance method", "name": "request_issue_report_for(e)", "desc": ""}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "ludecomp(a,n,zero=0,one=1)", "desc": "Performs LU decomposition of the n by n matrix a."}, {"type": "public instance method", "name": "lusolve(a,b,ps,zero=0.0)", "desc": "Solves a*x = b for x, using LU decomposition."}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "json_creatable?()", "desc": "Returns true if this class can be used to create an instance from a serialised JSON string. The class has to implement a class method json_create that expects a hash as first parameter. The hash should include the required data."}]}

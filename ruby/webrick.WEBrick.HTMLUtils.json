@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "escape(string)", "desc": "Escapes &, \u201c, > and < in string"}]}

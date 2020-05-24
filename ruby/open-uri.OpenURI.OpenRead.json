@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "open(*rest, &block)", "desc": "#open provides `open' for URI::HTTP and URI::FTP."}, {"type": "public instance method", "name": "read(options={})", "desc": "#read) reads a content referenced by self and returns the content as string. The string is extended with OpenURI::Meta. The argument options is same as #open."}]}

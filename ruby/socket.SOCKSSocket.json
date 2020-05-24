@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(host, port) => socketclick to toggle source", "desc": "Opens a SOCKS connection to host via the SOCKS server."}, {"type": "public instance method", "name": "close()", "desc": "Closes the SOCKS connection."}]}

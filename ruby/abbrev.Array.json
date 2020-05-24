@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "abbrev(pattern = nil)", "desc": "Calculates the set of unambiguous abbreviations for the strings in self."}]}

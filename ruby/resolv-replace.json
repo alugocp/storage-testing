@@ -1,0 +1,1 @@
+{"entries": [{"type": "class", "name": "IPSocket", "desc": "", "key": "resolv-replace.IPSocket"}, {"type": "class", "name": "SOCKSSocket", "desc": "", "key": "resolv-replace.SOCKSSocket"}, {"type": "class", "name": "TCPSocket", "desc": "", "key": "resolv-replace.TCPSocket"}, {"type": "class", "name": "UDPSocket", "desc": "", "key": "resolv-replace.UDPSocket"}]}

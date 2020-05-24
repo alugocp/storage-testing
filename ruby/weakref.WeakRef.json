@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(orig)", "desc": "Creates a weak reference to orig"}, {"type": "public instance method", "name": "weakref_alive?()", "desc": "Returns true if the referenced object is still alive."}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "shellescape => stringclick to toggle source", "desc": "Escapes str so that it can be safely used in a Bourne shell command line."}, {"type": "public instance method", "name": "shellsplit => arrayclick to toggle source", "desc": "Splits str into an array of tokens in the same way the UNIX Bourne shell does."}]}

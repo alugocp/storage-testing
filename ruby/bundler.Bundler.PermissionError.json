@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(path, permission_type = :write)", "desc": ""}, {"type": "public instance method", "name": "action()", "desc": ""}, {"type": "public instance method", "name": "message()", "desc": ""}]}

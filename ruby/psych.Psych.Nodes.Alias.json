@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "anchor", "desc": " The anchor this alias links to "}, {"type": "public class method", "name": "new(anchor)", "desc": "Create a new Alias that points to an anchor"}, {"type": "public instance method", "name": "alias?()", "desc": ""}]}

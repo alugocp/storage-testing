@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "def_notifier(prefix = \"\", output_method = StdioOutputMethod.new)", "desc": "Define a new Notifier output source, returning a new CompositeNotifier with the given prefix and output_method."}]}

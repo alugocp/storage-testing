@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "emailbx", "desc": " Mailbox to use for error messages related to the mail list or mailbox. "}, {"type": "attribute", "name": "rmailbx", "desc": " Domain name responsible for this mail list or mailbox. "}, {"type": "public class method", "name": "new(rmailbx, emailbx)", "desc": ""}]}

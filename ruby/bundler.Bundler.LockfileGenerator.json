@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "definition", "desc": " "}, {"type": "attribute", "name": "out", "desc": " "}, {"type": "public class method", "name": "generate(definition)", "desc": ""}, {"type": "public class method", "name": "new(definition)", "desc": "@private"}, {"type": "public instance method", "name": "generate!()", "desc": ""}]}

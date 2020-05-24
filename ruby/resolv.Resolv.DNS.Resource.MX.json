@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "exchange", "desc": " The host of this MX. "}, {"type": "attribute", "name": "preference", "desc": " The preference for this MX. "}, {"type": "public class method", "name": "new(preference, exchange)", "desc": "Creates a new MX record with preference, accepting mail at exchange."}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "options", "desc": " "}, {"type": "attribute", "name": "prompt", "desc": " "}, {"type": "public class method", "name": "available?()", "desc": ""}, {"type": "public class method", "name": "new(prompt, options)", "desc": ""}, {"type": "public instance method", "name": "readline()", "desc": ""}]}

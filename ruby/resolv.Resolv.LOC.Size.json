@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "Regex", "desc": ""}, {"type": "attribute", "name": "scalar", "desc": " The raw size "}, {"type": "public class method", "name": "create(arg)", "desc": "Creates a new LOC::Size from arg which may be:"}, {"type": "public class method", "name": "new(scalar)", "desc": ""}]}

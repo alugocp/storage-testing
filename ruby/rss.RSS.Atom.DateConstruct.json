@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "append_features(klass)", "desc": ""}, {"type": "public instance method", "name": "atom_validate(ignore_unknown_element, tags, uri)", "desc": "Raises NotAvailableValueError if element content is nil"}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "install(names, options)", "desc": ""}, {"type": "public instance method", "name": "install_definition(definition)", "desc": "Installs the plugin from Definition object created by limited parsing of Gemfile searching for plugins to be installed"}]}

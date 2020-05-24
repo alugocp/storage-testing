@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "gem_original_require(path)", "desc": ""}, {"type": "alias", "name": "gem_original_require(path)", "desc": "             Alias for: require "}]}

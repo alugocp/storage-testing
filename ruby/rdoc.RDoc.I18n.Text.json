@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(raw)", "desc": "Creates a new i18n supported text for raw text."}, {"type": "public instance method", "name": "extract_messages()", "desc": "Extracts translation target messages and yields each message."}, {"type": "public instance method", "name": "translate(locale)", "desc": "Translates raw text into locale."}]}

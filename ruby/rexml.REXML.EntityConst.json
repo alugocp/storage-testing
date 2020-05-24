@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "AMP", "desc": "+&+"}, {"type": "constant", "name": "APOS", "desc": "+'+"}, {"type": "constant", "name": "GT", "desc": "+>+"}, {"type": "constant", "name": "LT", "desc": "+<+"}, {"type": "constant", "name": "QUOT", "desc": "+\u201c+"}]}

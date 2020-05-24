@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "taxo_link", "desc": " "}, {"type": "attribute", "name": "taxo_link=", "desc": " "}, {"type": "attribute", "name": "value", "desc": " "}, {"type": "public instance method", "name": "have_required_values?()", "desc": ""}]}

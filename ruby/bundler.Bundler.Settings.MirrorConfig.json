@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "uri", "desc": " "}, {"type": "attribute", "name": "value", "desc": " "}, {"type": "public class method", "name": "new(config_line, value)", "desc": ""}, {"type": "public instance method", "name": "all?()", "desc": ""}, {"type": "public instance method", "name": "update_mirror(mirror)", "desc": ""}]}

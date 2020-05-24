@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "parse(arg, argv, &error)", "desc": "Parses argument if given, or uses default value."}]}

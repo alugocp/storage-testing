@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "connection_for(uri)", "desc": ""}, {"type": "public instance method", "name": "warn_old_tls_version_rubygems_connection(uri, connection)", "desc": ""}]}

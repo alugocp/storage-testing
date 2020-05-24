@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "Pathname(path)  \u2192 pathnameclick to toggle source", "desc": "Creates a new Pathname object from the given string, path, and returns pathname object."}]}

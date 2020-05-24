@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(path, initheader = nil)", "desc": "Creates an HTTP request object for path."}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "line_number", "desc": " "}, {"type": "attribute", "name": "lineno", "desc": " "}, {"type": "public class method", "name": "new(message, line_number)", "desc": ""}]}

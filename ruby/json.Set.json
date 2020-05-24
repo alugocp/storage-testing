@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "json_create(object)", "desc": "Import a JSON Marshalled object."}, {"type": "public instance method", "name": "as_json(*)", "desc": "Marshal the object to JSON."}, {"type": "public instance method", "name": "to_json(*args)", "desc": "return the JSON value"}]}

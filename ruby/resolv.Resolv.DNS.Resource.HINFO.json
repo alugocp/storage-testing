@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "cpu", "desc": " CPU architecture for this resource. "}, {"type": "attribute", "name": "os", "desc": " Operating system for this resource. "}, {"type": "public class method", "name": "new(cpu, os)", "desc": "Creates a new HINFO running os on cpu."}]}

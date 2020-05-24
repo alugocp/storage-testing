@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(bind = nil)", "desc": "Creates a new XMP object."}, {"type": "public instance method", "name": "puts(exps)", "desc": "Evaluates the given exps, for example:"}]}

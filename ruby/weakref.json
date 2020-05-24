@@ -1,0 +1,1 @@
+{"entries": [{"type": "class", "name": "WeakRef", "desc": "", "key": "weakref.WeakRef"}, {"type": "class", "name": "WeakRef::RefError", "desc": "", "key": "weakref.WeakRef.RefError"}, {"type": "module", "name": "WeakRef::ObjectSpace", "desc": "", "key": "weakref.WeakRef.ObjectSpace"}]}

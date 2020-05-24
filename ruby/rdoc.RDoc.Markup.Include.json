@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "file", "desc": " The filename to be included, without extension "}, {"type": "attribute", "name": "include_path", "desc": " Directories to search for file "}, {"type": "public class method", "name": "new(file, include_path)", "desc": "Creates a new include that will import file from include_path"}]}

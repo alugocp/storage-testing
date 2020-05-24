@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "find_all(req)", "desc": "Returns an Array of VendorSpecification objects matching the DependencyRequest req."}]}

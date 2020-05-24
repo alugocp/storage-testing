@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "encoding", "desc": " "}, {"type": "public class method", "name": "new(real_IO, encd=\"iso-8859-1\")", "desc": ""}, {"type": "public instance method", "name": "<<( content )", "desc": ""}, {"type": "public instance method", "name": "to_s()", "desc": ""}]}

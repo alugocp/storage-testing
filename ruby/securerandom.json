@@ -1,0 +1,1 @@
+{"entries": [{"type": "module", "name": "Random", "desc": "", "key": "securerandom.Random"}, {"type": "module", "name": "Random::Formatter", "desc": "", "key": "securerandom.Random.Formatter"}, {"type": "module", "name": "SecureRandom", "desc": "", "key": "securerandom.SecureRandom"}]}

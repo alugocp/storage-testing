@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(store)", "desc": "Creates a message extractor for store."}, {"type": "public instance method", "name": "extract()", "desc": "Extracts messages from store, stores them into RDoc::Generator::POT::PO and returns it."}]}

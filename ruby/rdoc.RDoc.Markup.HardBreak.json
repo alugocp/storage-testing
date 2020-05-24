@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new()", "desc": "RDoc::Markup::HardBreak is a singleton"}, {"type": "public instance method", "name": "accept(visitor)", "desc": "Calls accept_hard_break on visitor"}]}

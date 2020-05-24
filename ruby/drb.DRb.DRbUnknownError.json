@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "unknown", "desc": " Get the wrapped DRb::DRbUnknown object. "}, {"type": "public class method", "name": "new(unknown)", "desc": "Create a new DRbUnknownError for the DRb::DRbUnknown object unknown"}]}

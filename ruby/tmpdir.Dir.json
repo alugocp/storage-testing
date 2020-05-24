@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "mktmpdir(prefix_suffix=nil, *rest, **options)", "desc": "::mktmpdir creates a temporary directory."}, {"type": "public class method", "name": "tmpdir()", "desc": "Returns the operating system's temporary file path."}]}

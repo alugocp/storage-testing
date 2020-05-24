@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "conflicts", "desc": " @return [{String => Resolution::Conflict}] the conflicts that caused resolution to fail  "}, {"type": "public class method", "name": "new(conflicts)", "desc": "Initializes a new error with the given version conflicts. @param [{String => Resolution::Conflict}] conflicts see {#conflicts}"}]}

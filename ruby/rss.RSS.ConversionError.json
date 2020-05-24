@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "from", "desc": " "}, {"type": "attribute", "name": "string", "desc": " "}, {"type": "attribute", "name": "to", "desc": " "}, {"type": "public class method", "name": "new(string, to, from)", "desc": ""}]}

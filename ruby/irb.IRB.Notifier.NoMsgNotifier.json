@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new()", "desc": "Creates a new notifier that should not be used to output messages."}, {"type": "public instance method", "name": "notify?()", "desc": "Ensures notifications are ignored, see IRB::Notifier::AbstractNotifier#notify? for more information."}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "element", "desc": " "}, {"type": "attribute", "name": "line", "desc": " "}, {"type": "public class method", "name": "new(line=nil, element=nil)", "desc": "Create a new NotWellFormedError for an error at line in element.  If a block is given the return value of the block ends up in the error message."}]}

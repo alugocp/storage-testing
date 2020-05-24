@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "platforms_match?(gemspec_platform, local_platform)", "desc": ""}, {"type": "public instance method", "name": "match_platform(p)", "desc": ""}]}

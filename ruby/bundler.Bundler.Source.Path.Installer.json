@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "spec", "desc": " "}, {"type": "public class method", "name": "new(spec, options = {})", "desc": ""}, {"type": "public instance method", "name": "post_install()", "desc": ""}]}

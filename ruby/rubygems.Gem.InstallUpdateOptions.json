@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "add_install_update_options()", "desc": "Add the install/update options to the option parser."}, {"type": "public instance method", "name": "install_update_defaults_str()", "desc": "Default options for the gem install command."}]}

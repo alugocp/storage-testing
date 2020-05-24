@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "name", "desc": " Name of the required file "}, {"type": "public class method", "name": "new(name, comment)", "desc": "Creates a new Require that loads name with comment"}, {"type": "public instance method", "name": "top_level()", "desc": "The RDoc::TopLevel corresponding to this require, or nil if not found."}]}

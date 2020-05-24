@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new()", "desc": ""}, {"type": "public instance method", "name": "complain(message)", "desc": ""}, {"type": "public instance method", "name": "execute()", "desc": ""}, {"type": "public instance method", "name": "spec_path(gem_full_name)", "desc": ""}]}

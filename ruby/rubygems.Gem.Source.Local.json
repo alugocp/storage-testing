@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "<=>(other)", "desc": "Local sorts before Gem::Source and after Gem::Source::Installed"}]}

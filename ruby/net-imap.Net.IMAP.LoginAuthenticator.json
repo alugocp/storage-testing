@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "STATE_PASSWORD", "desc": ""}, {"type": "constant", "name": "STATE_USER", "desc": ""}, {"type": "public class method", "name": "new(user, password)", "desc": ""}, {"type": "public instance method", "name": "process(data)", "desc": ""}]}

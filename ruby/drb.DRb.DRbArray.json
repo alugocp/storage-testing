@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(ary)", "desc": "Creates a new DRbArray that either dumps or wraps all the items in the Array ary so they can be loaded by a remote DRb server."}]}

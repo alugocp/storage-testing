@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(length)", "desc": "Creates a new AttrSpan for length characters"}, {"type": "public instance method", "name": "[](n)", "desc": "Accesses flags for character n"}, {"type": "public instance method", "name": "set_attrs(start, length, bits)", "desc": "Toggles bits from start to length"}]}

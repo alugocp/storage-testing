@@ -1,0 +1,1 @@
+{"entries": [{"type": "class", "name": "IO", "desc": "", "key": "stringio.IO"}, {"type": "class", "name": "StringIO", "desc": "", "key": "stringio.StringIO"}, {"type": "module", "name": "IO::generic_readable", "desc": "", "key": "stringio.IO.generic_readable"}, {"type": "module", "name": "IO::generic_writable", "desc": "", "key": "stringio.IO.generic_writable"}]}

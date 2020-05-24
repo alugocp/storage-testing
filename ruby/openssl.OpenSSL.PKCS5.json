@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "pbkdf2_hmac(pass, salt, iter, keylen, digest)", "desc": "#pbkdf2_hmac has been renamed to OpenSSL::KDF.pbkdf2_hmac. This method is provided for backwards compatibility."}, {"type": "public instance method", "name": "pbkdf2_hmac_sha1(pass, salt, iter, keylen)", "desc": ""}]}

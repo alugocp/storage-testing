@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(prober = nil)", "desc": ""}, {"type": "public instance method", "name": "each()", "desc": ""}, {"type": "public instance method", "name": "for(uri)", "desc": "Returns a mirror for the given uri."}, {"type": "public instance method", "name": "parse(key, value)", "desc": ""}]}

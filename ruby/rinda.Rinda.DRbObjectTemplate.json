@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(uri=nil, ref=nil)", "desc": "Creates a new DRbObjectTemplate that will match against uri and ref."}, {"type": "public instance method", "name": "===(ro)", "desc": "This DRbObjectTemplate matches ro if the remote object's drburi and drbref are the same.  nil is used as a wildcard."}]}

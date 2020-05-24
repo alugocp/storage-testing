@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "possibility()", "desc": "@return [Object] a spec that was unable to be activated due to a conflict"}]}

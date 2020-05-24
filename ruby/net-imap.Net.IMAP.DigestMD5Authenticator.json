@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "STAGE_ONE", "desc": ""}, {"type": "constant", "name": "STAGE_TWO", "desc": ""}, {"type": "public class method", "name": "new(user, password, authname = nil)", "desc": ""}, {"type": "public instance method", "name": "process(challenge)", "desc": ""}]}

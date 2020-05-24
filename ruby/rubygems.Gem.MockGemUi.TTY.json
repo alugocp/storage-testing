@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "tty", "desc": " "}, {"type": "public instance method", "name": "noecho()", "desc": ""}, {"type": "public instance method", "name": "tty?()", "desc": ""}]}

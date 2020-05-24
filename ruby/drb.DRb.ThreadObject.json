@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(&blk)", "desc": ""}, {"type": "public instance method", "name": "_execute()", "desc": ""}, {"type": "public instance method", "name": "alive?()", "desc": ""}, {"type": "public instance method", "name": "kill()", "desc": ""}, {"type": "public instance method", "name": "method_missing(msg, *arg, &blk)", "desc": ""}]}

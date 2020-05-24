@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "nodoc(co)", "desc": "Returns a marker for RDoc::CodeObject co being undocumented"}]}

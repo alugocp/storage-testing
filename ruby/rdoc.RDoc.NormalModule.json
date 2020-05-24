@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "definition()", "desc": "The definition of this module, module MyModuleName"}, {"type": "public instance method", "name": "module?()", "desc": "This is a module, returns true"}, {"type": "public instance method", "name": "superclass()", "desc": "Modules don't have one, raises NoMethodError"}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(set, api_data)", "desc": "Creates an APISpecification for the given set from the rubygems.org api_data."}]}

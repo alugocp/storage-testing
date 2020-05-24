@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(tokenizer, set, platforms, filename = nil)", "desc": "Parses lockfiles"}, {"type": "public instance method", "name": "parse()", "desc": ""}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "validate_duplicate_links(links)", "desc": "Checks if there are duplicate links with the same type and hreflang attributes that have an alternate (or empty) rel attribute"}]}

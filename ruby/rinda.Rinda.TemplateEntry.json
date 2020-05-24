@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "===(tuple)", "desc": ""}, {"type": "public instance method", "name": "match(tuple)", "desc": "Matches this TemplateEntry against tuple.  See Rinda::Template#match for details on how a Template matches a Tuple."}, {"type": "alias", "name": "===(tuple)", "desc": "             Alias for: match "}]}

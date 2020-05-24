@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "compact", "desc": " If compact is set to true, then the formatter will attempt to use as little space as possible "}, {"type": "attribute", "name": "width", "desc": " The width of a page.  Used for formatting text "}, {"type": "public class method", "name": "new( indentation=2, ie_hack=false )", "desc": "Create a new pretty printer."}]}

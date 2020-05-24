@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "TRAPPED_SIGNALS", "desc": ""}, {"type": "attribute", "name": "args", "desc": " "}, {"type": "attribute", "name": "cmd", "desc": " "}, {"type": "attribute", "name": "options", "desc": " "}, {"type": "public class method", "name": "new(options, args)", "desc": ""}, {"type": "public instance method", "name": "run()", "desc": ""}]}

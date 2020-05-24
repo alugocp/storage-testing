@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "to_set(klass = Set, *args, &block)", "desc": "Makes a set from the enumerable object with given arguments. Needs to +require \u201cset\u201d+ to use this method."}]}

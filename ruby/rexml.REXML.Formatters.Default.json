@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new( ie_hack=false )", "desc": "Prints out the XML document with no formatting \u2013 except if ie_hack is set."}, {"type": "public instance method", "name": "write( node, output )", "desc": "Writes the node to some output."}]}

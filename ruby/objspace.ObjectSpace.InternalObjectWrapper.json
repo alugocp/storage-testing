@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "inspect()", "desc": "See Object#inspect."}, {"type": "public instance method", "name": "internal_object_id()", "desc": "Returns the Object#object_id of the internal object."}, {"type": "public instance method", "name": "type()", "desc": "Returns the type of the internal object."}]}

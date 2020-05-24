@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(string = '')", "desc": "Creates a new TempIO that will be initialized to contain string."}, {"type": "public instance method", "name": "string()", "desc": "The content of the TempIO as a String."}]}

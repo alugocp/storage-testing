@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "print(*opts)", "desc": "Prints the given opts to standard output, see IO#print for more information."}]}

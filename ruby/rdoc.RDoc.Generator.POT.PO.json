@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new()", "desc": "Creates an object that represents PO format."}, {"type": "public instance method", "name": "add(entry)", "desc": "Adds a PO entry to the PO."}, {"type": "public instance method", "name": "to_s()", "desc": "Returns PO format text for the PO."}]}

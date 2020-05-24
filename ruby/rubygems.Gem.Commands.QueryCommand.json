@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(name = 'query', summary = 'Query gem information in local or remote repositories')", "desc": ""}, {"type": "public instance method", "name": "execute()", "desc": ""}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "to_json(*)click to toggle source", "desc": "Returns a JSON string representation for this Float number."}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "to_json(*)click to toggle source", "desc": "Converts this object to a string (calling to_s), converts it to a JSON string, and returns the result. This is a fallback, if no special method to_json was defined for some object."}]}

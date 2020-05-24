@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(src)", "desc": ""}, {"type": "public instance method", "name": "to_s()", "desc": ""}, {"type": "public instance method", "name": "write( output, indent )", "desc": "See REXML::Formatters"}]}

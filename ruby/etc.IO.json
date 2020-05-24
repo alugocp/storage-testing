@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "pathconf(p1)", "desc": "Returns pathname configuration variable using fpathconf()."}]}

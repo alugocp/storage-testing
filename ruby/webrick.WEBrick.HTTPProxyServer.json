@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(config={}, default=Config::HTTP)", "desc": "Proxy server configurations.  The proxy server handles the following configuration items in addition to those supported by HTTPServer:"}]}

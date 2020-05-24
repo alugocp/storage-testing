@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "uri", "desc": " The URI which was being accessed when the exception happened. "}, {"type": "public class method", "name": "new(message, uri)", "desc": ""}]}

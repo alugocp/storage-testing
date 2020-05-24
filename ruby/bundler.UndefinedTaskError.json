@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "all_commands", "desc": " "}, {"type": "attribute", "name": "command", "desc": " "}, {"type": "public class method", "name": "new(command, all_commands, namespace)", "desc": ""}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "Regex", "desc": ""}, {"type": "attribute", "name": "altitude", "desc": " The raw altitude "}, {"type": "public class method", "name": "create(arg)", "desc": "Creates a new LOC::Alt from arg which may be:"}, {"type": "public class method", "name": "new(altitude)", "desc": ""}]}

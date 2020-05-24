@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "gem_name", "desc": " "}, {"type": "attribute", "name": "options", "desc": " "}, {"type": "public class method", "name": "new(options)", "desc": ""}, {"type": "public instance method", "name": "run()", "desc": ""}]}

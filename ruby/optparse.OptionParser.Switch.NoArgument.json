@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "incompatible_argument_styles(*)", "desc": ""}, {"type": "public class method", "name": "pattern()", "desc": ""}, {"type": "public instance method", "name": "parse(arg, argv)", "desc": "Raises an exception if any arguments given."}]}

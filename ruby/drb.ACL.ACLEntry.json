@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(str)", "desc": "Creates a new entry using str."}, {"type": "public instance method", "name": "match(addr)", "desc": "Matches addr against this entry."}]}

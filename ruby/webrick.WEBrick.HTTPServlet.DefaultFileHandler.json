@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(server, local_path)", "desc": "Creates a DefaultFileHandler instance for the file at local_path."}]}

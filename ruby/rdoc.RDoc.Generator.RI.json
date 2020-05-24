@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "DESCRIPTION", "desc": "Description of this generator"}, {"type": "public instance method", "name": "generate()", "desc": "Writes the parsed data store to disk for use by ri."}]}

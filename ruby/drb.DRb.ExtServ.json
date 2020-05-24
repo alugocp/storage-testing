@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "server", "desc": " "}, {"type": "public class method", "name": "new(there, name, server=nil)", "desc": ""}, {"type": "public instance method", "name": "alive?()", "desc": ""}, {"type": "public instance method", "name": "front()", "desc": ""}, {"type": "public instance method", "name": "stop_service()", "desc": ""}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "conflicts", "desc": " A Hash mapping conflicting specifications to the dependencies that caused the conflict "}, {"type": "attribute", "name": "target", "desc": " The specification that had the conflict "}, {"type": "public class method", "name": "new(target, conflicts)", "desc": ""}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "ARG_CONV", "desc": ""}, {"type": "public instance method", "name": "ac_arg_disable(name, help_string, &block)", "desc": ""}, {"type": "public instance method", "name": "ac_arg_enable(name, help_string, &block)", "desc": ""}, {"type": "public instance method", "name": "ac_arg_with(name, help_string, &block)", "desc": ""}]}

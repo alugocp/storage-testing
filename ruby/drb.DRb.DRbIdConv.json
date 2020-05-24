@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "to_id(obj)", "desc": "Convert an object into a reference id."}, {"type": "public instance method", "name": "to_obj(ref)", "desc": "Convert an object reference id to an object."}]}

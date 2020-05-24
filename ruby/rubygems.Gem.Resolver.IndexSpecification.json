@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(set, name, version, source, platform)", "desc": "An IndexSpecification is created from the index format described in `gem help generate_index`."}, {"type": "public instance method", "name": "dependencies()", "desc": "The dependencies of the gem for this specification"}]}

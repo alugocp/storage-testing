@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new()", "desc": ""}, {"type": "public instance method", "name": "scan_token(token)", "desc": "Return true if the token is a part of Symbol."}]}

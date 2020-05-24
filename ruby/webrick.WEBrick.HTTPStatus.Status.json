@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "code()", "desc": "Returns the HTTP status code"}, {"type": "public instance method", "name": "reason_phrase()", "desc": "Returns the HTTP status description"}, {"type": "public instance method", "name": "to_i()", "desc": ""}, {"type": "alias", "name": "to_i()", "desc": "             Alias for: code "}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "add_git_source(options = {})", "desc": ""}, {"type": "public instance method", "name": "add_rubygems_source(options = {})", "desc": ""}, {"type": "public instance method", "name": "all_sources()", "desc": ""}]}

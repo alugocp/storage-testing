@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "included(base)", "desc": ""}, {"type": "public instance method", "name": "ensure_xml_content(content)", "desc": ""}, {"type": "public instance method", "name": "xhtml=(content)", "desc": ""}, {"type": "public instance method", "name": "xml_content=(content)", "desc": ""}]}

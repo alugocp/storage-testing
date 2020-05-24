@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "media_subtype()", "desc": "Obsolete: use subtype instead.  Calling this will generate a warning message to stderr, then return the value of subtype."}, {"type": "public instance method", "name": "multipart?()", "desc": ""}]}

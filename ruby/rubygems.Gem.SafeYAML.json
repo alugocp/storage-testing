@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "PERMITTED_CLASSES", "desc": ""}, {"type": "constant", "name": "PERMITTED_SYMBOLS", "desc": ""}, {"type": "public class method", "name": "load(input)", "desc": ""}, {"type": "public class method", "name": "safe_load(input)", "desc": ""}]}

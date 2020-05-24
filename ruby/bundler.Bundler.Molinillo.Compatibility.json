@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "flat_map(enum, &blk)", "desc": "Flat map @param [Enumerable] enum an enumerable object @block the block to flat-map with @return The enum, flat-mapped"}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "context", "desc": " "}, {"type": "attribute", "name": "raw_node", "desc": " "}, {"type": "public class method", "name": "new(node, context=nil)", "desc": ""}, {"type": "public instance method", "name": "position()", "desc": ""}]}

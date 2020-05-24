@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "SiD", "desc": ""}, {"type": "public instance method", "name": "next_rotate_time(now, shift_age)", "desc": ""}, {"type": "public instance method", "name": "previous_period_end(now, shift_age)", "desc": ""}]}

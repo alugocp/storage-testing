@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "Li", "desc": ""}, {"type": "public class method", "name": "new(*args)", "desc": ""}, {"type": "public class method", "name": "required_uri()", "desc": ""}, {"type": "public instance method", "name": "full_name()", "desc": ""}, {"type": "public instance method", "name": "setup_maker(target)", "desc": ""}]}

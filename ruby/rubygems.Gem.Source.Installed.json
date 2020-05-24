@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "<=>(other)", "desc": "Installed sources sort before all other sources"}, {"type": "public instance method", "name": "download(spec, path)", "desc": "We don't need to download an installed gem"}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "TimeoutError", "desc": "Raised by Timeout.timeout when\nthe block times out."}, {"type": "public instance method", "name": "timeout(*args, &block)", "desc": ""}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "encoding", "desc": " ID \u2014> Encoding name "}, {"type": "public instance method", "name": "decode(string)", "desc": ""}, {"type": "public instance method", "name": "encode(string)", "desc": ""}, {"type": "public instance method", "name": "encoding=(encoding)", "desc": ""}]}

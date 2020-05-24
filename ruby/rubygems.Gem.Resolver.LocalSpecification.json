@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "installable_platform?()", "desc": "Returns true if this gem is installable for the current platform."}]}

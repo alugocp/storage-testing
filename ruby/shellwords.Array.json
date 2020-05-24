@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "shelljoin => stringclick to toggle source", "desc": "Builds a command line string from an argument list array joining all elements escaped for the Bourne shell and separated by a space."}]}

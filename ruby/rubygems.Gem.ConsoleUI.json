@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new()", "desc": "The Console UI has no arguments as it defaults to reading input from stdin, output to stdout and warnings or errors to stderr."}]}

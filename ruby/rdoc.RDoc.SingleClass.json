@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "ancestors()", "desc": "Adds the superclass to the included modules."}, {"type": "public instance method", "name": "definition()", "desc": "The definition of this singleton class, class << MyClassName"}]}

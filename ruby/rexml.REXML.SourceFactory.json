@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "create_from(arg)", "desc": "Generates a Source object @param arg Either a String, or an IO @return a Source, or nil if a bad argument was given"}]}

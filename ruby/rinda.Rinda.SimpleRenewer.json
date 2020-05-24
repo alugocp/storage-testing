@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(sec=180)", "desc": "Creates a new SimpleRenewer that keeps an object alive for another sec seconds."}, {"type": "public instance method", "name": "renew()", "desc": "Called by the TupleSpace to check if the object is still alive."}]}

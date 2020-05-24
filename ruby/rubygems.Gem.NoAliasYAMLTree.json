@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "create()", "desc": ""}, {"type": "public instance method", "name": "register(target, obj)", "desc": "Noop this out so there are no anchors"}, {"type": "public instance method", "name": "visit_String(str)", "desc": ""}]}

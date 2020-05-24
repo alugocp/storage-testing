@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(name = DEFAULT_NAMES)", "desc": "Create an ri task with the given name. See RDoc::Task for documentation on setting names."}, {"type": "public instance method", "name": "defaults()", "desc": "Sets default task values"}]}

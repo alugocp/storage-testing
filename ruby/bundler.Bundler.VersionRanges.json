@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "NEq", "desc": ""}, {"type": "constant", "name": "ReqR", "desc": ""}, {"type": "public class method", "name": "empty?(ranges, neqs)", "desc": ""}, {"type": "public class method", "name": "for(requirement)", "desc": ""}, {"type": "public class method", "name": "for_many(requirements)", "desc": ""}]}

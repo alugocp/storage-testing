@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(keeping=600)", "desc": "Creates a new TimerIdConv which will hold objects for keeping seconds."}]}

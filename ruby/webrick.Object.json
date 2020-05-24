@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "sysread(io, size)", "desc": "cgi_runner.rb \u2013 CGI launcher."}, {"type": "public instance method", "name": "timeout(seconds, exception=Timeout::Error)", "desc": "Executes the passed block and raises exception if execution takes more than seconds."}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "xmp(exps, bind = nil)", "desc": "A convenience method that's only available when the you require the IRB::XMP standard library."}]}

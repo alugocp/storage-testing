@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "ClassValue", "desc": ""}, {"type": "constant", "name": "TypeValue", "desc": ""}, {"type": "attribute", "name": "address", "desc": " The Resolv::IPv6 address for this AAAA. "}, {"type": "public class method", "name": "new(address)", "desc": "Creates a new AAAA for address."}]}

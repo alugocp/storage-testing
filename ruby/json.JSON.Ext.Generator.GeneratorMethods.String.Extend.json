@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "json_create(o)click to toggle source", "desc": "Raw Strings are JSON Objects (the raw bytes are stored in an array for the key \u201craw\u201d). The Ruby String can be created by this module method."}]}

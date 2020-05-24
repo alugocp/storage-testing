@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "JAVA", "desc": ""}, {"type": "constant", "name": "MINGW", "desc": ""}, {"type": "constant", "name": "MSWIN", "desc": ""}, {"type": "constant", "name": "MSWIN64", "desc": ""}, {"type": "constant", "name": "X64_MINGW", "desc": ""}, {"type": "public instance method", "name": "hash()", "desc": ""}]}

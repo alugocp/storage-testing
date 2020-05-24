@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(string)", "desc": ""}, {"type": "public instance method", "name": "each_line(*args, &block)", "desc": ""}, {"type": "public instance method", "name": "eof?()", "desc": ""}, {"type": "public instance method", "name": "gets(*args)", "desc": ""}]}

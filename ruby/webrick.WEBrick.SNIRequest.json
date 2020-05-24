@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "addr", "desc": " The socket address of the server "}, {"type": "attribute", "name": "host", "desc": " The SNI hostname "}, {"type": "attribute", "name": "port", "desc": " The port this request is for "}, {"type": "public class method", "name": "new(sslsocket, hostname)", "desc": "Creates a new SNIRequest."}]}

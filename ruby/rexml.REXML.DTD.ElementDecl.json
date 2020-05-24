@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "PATTERN_RE", "desc": "PATTERN_RE =\n/^s*(#{START}.*?)>/um"}, {"type": "constant", "name": "START", "desc": ""}, {"type": "constant", "name": "START_RE", "desc": ""}, {"type": "public class method", "name": "new(match)", "desc": "s*(((([\u201c\u2018]).*?\u201d>5)|*)*?)(/)?>/um, true)"}]}

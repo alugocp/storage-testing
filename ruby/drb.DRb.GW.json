@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new()", "desc": "Creates a new GW"}, {"type": "public instance method", "name": "[](key)", "desc": "Retrieves key from the GW"}, {"type": "public instance method", "name": "[]=(key, v)", "desc": "Stores value v at key in the GW"}]}

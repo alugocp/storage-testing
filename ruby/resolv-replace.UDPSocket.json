@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "bind(host, port)", "desc": ""}, {"type": "public instance method", "name": "connect(host, port)", "desc": ""}, {"type": "public instance method", "name": "send(mesg, flags, *rest)", "desc": ""}]}

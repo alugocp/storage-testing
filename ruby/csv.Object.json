@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "CSV(*args, &block)", "desc": "Passes args to CSV.instance."}]}

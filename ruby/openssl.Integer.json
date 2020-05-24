@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "to_bn()", "desc": "Casts an Integer as an OpenSSL::BN"}]}

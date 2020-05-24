@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "def_extend_command(cmd_name, load_file, *aliases)", "desc": "Evaluate the given command from the given load_file on the Context module."}, {"type": "public class method", "name": "install_extend_commands()", "desc": "Installs the default context extensions as irb commands:"}]}

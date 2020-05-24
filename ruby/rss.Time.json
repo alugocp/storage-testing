@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "w3cdtf(date)", "desc": "This method converts a W3CDTF string date/time format to Time object."}, {"type": "public instance method", "name": "w3cdtf()", "desc": "This method converts a Time object to a String. The String contains the time in W3CDTF date/time format."}]}

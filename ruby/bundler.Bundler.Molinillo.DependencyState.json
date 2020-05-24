@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "pop_possibility_state()", "desc": "Removes a possibility from `self` @return [PossibilityState] a state with a single possibility,"}]}

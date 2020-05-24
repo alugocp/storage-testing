@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "BigDecimal(initial, digits, exception: true)click to toggle source", "desc": "Create a new BigDecimal object."}]}

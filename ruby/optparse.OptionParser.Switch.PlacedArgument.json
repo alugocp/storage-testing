@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "parse(arg, argv, &error)", "desc": "Returns nil if argument is not present or begins with '-'."}]}

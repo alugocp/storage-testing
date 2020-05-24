@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "prefix", "desc": " "}, {"type": "attribute", "name": "tag", "desc": " "}, {"type": "attribute", "name": "uri", "desc": " "}, {"type": "public class method", "name": "new(tag, prefix, require_uri)", "desc": ""}]}

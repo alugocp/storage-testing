@@ -1,0 +1,1 @@
+{"entries": [{"type": "constant", "name": "NILEVENT", "desc": ""}, {"type": "public instance method", "name": "dump()", "desc": ""}, {"type": "public instance method", "name": "reset()", "desc": ""}, {"type": "public instance method", "name": "validate( event )", "desc": ""}]}

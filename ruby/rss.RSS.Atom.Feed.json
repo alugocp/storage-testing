@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(version=nil, encoding=nil, standalone=nil)", "desc": "Creates a new Atom feed"}, {"type": "public instance method", "name": "have_author?()", "desc": "Returns true if there are any authors for the feed or any of the Entry child elements have an author"}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(io)", "desc": "Creates a new RestrictedStream wrapping io"}, {"type": "public instance method", "name": "write(data)", "desc": "Writes data onto the IO"}]}

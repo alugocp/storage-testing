@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "to_d(precision)  \u2192 bigdecimalclick to toggle source", "desc": "Returns the value as a BigDecimal."}]}

@@ -1,0 +1,1 @@
+{"entries": [{"type": "public instance method", "name": "latest_version()", "desc": "@return [Object] most up-to-date dependency in the possibility set"}, {"type": "public instance method", "name": "to_s()", "desc": "String representation of the possibility set, for debugging"}]}

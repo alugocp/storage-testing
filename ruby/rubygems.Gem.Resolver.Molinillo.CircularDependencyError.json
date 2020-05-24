@@ -1,0 +1,1 @@
+{"entries": [{"type": "attribute", "name": "dependencies", "desc": " Set<Object>  the dependencies responsible for causing the error  "}, {"type": "public class method", "name": "new(nodes)", "desc": "Initializes a new error with the given circular vertices. @param [Array<DependencyGraph::Vertex>] nodes the nodes in the dependency"}]}

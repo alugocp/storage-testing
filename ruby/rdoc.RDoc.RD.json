@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "parse(rd)", "desc": "Parses rd source and returns an RDoc::Markup::Document.  If the =begin or =end lines are missing they will be added."}]}

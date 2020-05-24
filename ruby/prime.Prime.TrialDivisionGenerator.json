@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new()", "desc": ""}, {"type": "public instance method", "name": "next()", "desc": ""}, {"type": "public instance method", "name": "rewind()", "desc": ""}, {"type": "public instance method", "name": "succ()", "desc": ""}, {"type": "alias", "name": "next()", "desc": "             Alias for: succ "}]}

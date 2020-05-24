@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new()", "desc": "Creates an empty ACLList"}, {"type": "public instance method", "name": "add(str)", "desc": "Adds str as an ACLEntry in this list"}, {"type": "public instance method", "name": "match(addr)", "desc": "Matches addr against each ACLEntry in this list."}]}

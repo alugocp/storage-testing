@@ -1,0 +1,1 @@
+{"entries": [{"type": "public class method", "name": "new(klass, front, desc, renewer = nil)", "desc": "Creates a RingProvider that will provide a klass service running on front, with a description.  renewer is optional."}, {"type": "public instance method", "name": "provide()", "desc": "Advertises this service on the primary remote TupleSpace."}]}
